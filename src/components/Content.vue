@@ -1,12 +1,14 @@
 <template>
-    <div id="content">
+    <div class="content" 
+      id="nav-scroller"
+        style="position: relative; overflow-y: scroll; height: 100vh"
+    >
         <About/>
        <Expirience/>
         <Education/>
          <Skills/>
         <Interest/>
          <Awards/>
-
     </div>
 </template>
 

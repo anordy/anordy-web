@@ -33,7 +33,7 @@ export default {
     position: fixed;
 }
 
-#content{
+.content{
       margin-left: 330px;
 
 }

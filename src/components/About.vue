@@ -1,7 +1,5 @@
 <template>
     <div id="about">
-          <!--about-->
-    <section id="about">
           <h1 class="display-4 bold" id="anord">ANORD <Span style="color: #bd5d38;">PATRICK</Span></h1>
           <h6 class="display-6 " style="color: #868e96;">04 KOBE STREET SINZA, PO 1069 +255 (765) 39 (173) <a>anordypatrick98@gmail.com</a></h6>
           <p class="mt-5" style="color: #868e96;">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to <br> corporate strategy foster collaborative thinking to further the overall value proposition.
@@ -13,16 +11,11 @@
      <a class="social"><i class="fab fa-github"></i></a>
     <a class="social"><i class="fab fa-twitter"></i></a>
      <a class="social"><i class="fab fa-facebook-f"></i></a>
-
-
-
       </div>
    </div>
    
        
    
-
-    </section>
 
     </div>
 </template>

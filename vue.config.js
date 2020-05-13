@@ -1,3 +1,3 @@
 module.export = {
-    publicPath:  /anordy-web/
+    publicPath: '/anordy-web/'
 }

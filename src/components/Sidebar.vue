@@ -4,17 +4,15 @@
             <img src="https://img.freepik.com/free-vector/businessman-profile-cartoon_18591-58479.jpg?size=338&ext=jpg" height="180px" width="180px" class="img-fluid" alt="">
             </div>
 
-           <nav class="navbar text-center" >
-              <ul class="nav-bar">
-                <li class="nav-item"><a href="#about"  class="nav-link active">ABOUT</a></li>
-               <li class="nav-item"><a href="#expirience" class="nav-link">EXPIRIENCE</a></li>
-                <li class="nav-item"><a href="#education" class="nav-link"> EDUCATION</a></li>
-                <li class="nav-item"><a href="#skills" class="nav-link">SKILLS</a></li>
-                <li class="nav-item"><a href="#interest" class="nav-link">INTEREST</a></li>
-                <li class="nav-item"><a href="#awards" class="nav-link">AWARDS</a></li>
+           <b-nav class="text-center"  vertical v-b-scrollspy:nav-scroller>
+           <b-nav-item href="#about" @click="scrollIntoView">ABOUT</b-nav-item>
+           <b-nav-item href="#expirience" @click="scrollIntoView">EXPIRIENCE</b-nav-item>
+           <b-nav-item href="#education" @click="scrollIntoView">EDUCATION</b-nav-item>
+           <b-nav-item href="#skills" @click="scrollIntoView">SKILLS</b-nav-item>
+           <b-nav-item href="#interest" @click="scrollIntoView">INTEREST</b-nav-item> 
+           <b-nav-item href="#awards" @click="scrollIntoView">AWARDS</b-nav-item> 
 
-              </ul>
-           </nav>
+           </b-nav>
         </div>
 </template>
 
@@ -34,7 +32,7 @@ export default {
 }
 .img{
     margin-top: 190px;
-    margin-left: 40px;
+    margin-left: 60px;
     background-color: rgba(255,255,255,.2);
     height: 190px;
     width: 190px;

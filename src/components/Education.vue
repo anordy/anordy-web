@@ -1,7 +1,5 @@
 <template>
     <div id="education">
-        <!--education-->
-    <b-section>
       <h1 class="display-5 mt-5">EDUCATION</h1>
        <b-row cols="2">
           <b-col>
@@ -37,8 +35,8 @@
         <br> generation X is on the runway heading towards a streamlined cloud solution. User generated content in 
         </p>
         <hr class="hr">
-    </b-section>
     </div>
+
 </template>
 
 

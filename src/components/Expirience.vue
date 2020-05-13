@@ -1,7 +1,6 @@
 <template>
+
     <div id="expirience">
-        <!--expirience-->
-    <b-section >
         <hr>
         <h1 class="display-5 mt-2" >EXPIRIENCE</h1>
         <b-row class="pt-5" cols="2">
@@ -76,9 +75,9 @@
         </p>
         <hr class="mt-5"> 
 
-    </b-section>
-
     </div>
+
+   
 </template>
 
 
