@@ -31,7 +31,7 @@ export default {
   box-sizing: border-box;
 }
 .img{
-    margin-top: 190px;
+    margin-top: 100px;
     margin-left: 60px;
     background-color: rgba(255,255,255,.2);
     height: 190px;
