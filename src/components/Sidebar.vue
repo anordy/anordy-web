@@ -1,7 +1,7 @@
 <template>
     <div id="sidebar">
         <div class="img">
-            <img src="https://img.freepik.com/free-vector/businessman-profile-cartoon_18591-58479.jpg?size=338&ext=jpg" height="180px" width="180px" class="img-fluid" alt="">
+          <img alt="Vue logo" src="../assets/anord.png">
             </div>
 
            <b-nav class="text-center"  vertical v-b-scrollspy:nav-scroller>

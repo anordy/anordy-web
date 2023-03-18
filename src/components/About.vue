@@ -1,6 +1,6 @@
 <template>
     <div id="about">
-          <h1 class="display-4 bold" id="anord">ANORD <Span style="color: #bd5d38;">PATRICK</Span></h1>
+          <h1 class="display-4 bold" id="anord">ANORD <Span style="color: #bd5d38;">JOHN</Span></h1>
           <h6 class="display-6 " style="color: #868e96;">KOBE STREET SINZA, +255 (716) 121 (689), +255 (765) 639 (173) <a>anordypatrick98@gmail.com</a></h6>
           <p class="mt-5" style="color: #868e96;">I am a highly competent IT professional with a proven track record in designing and developing <br>
              Web application , mobile applications, websites, APIs and managing databases. I have strong <br> technical skills as well as excellent interpersonal skills, enabling me to interact with a wide <br> range of people. 
